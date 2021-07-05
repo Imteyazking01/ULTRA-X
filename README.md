@@ -21,7 +21,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Dᴇᴘʟᴏʏ:-
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Imteyazking01/ULTRA-X/blob/main/README.md&template=https://github.com/Imteyazking01/ULTRA-X/blob/main/README.md)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Imteyazking01/ULTRA-X&template=https://github.com/Imteyazking01/ULTRA-X)
 
 ------------------------------------------------
 
